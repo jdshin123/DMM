@@ -1,0 +1,1450 @@
+﻿Log file open, 10/13/17 18:51:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: My2DReal
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-647383942) SRandInit(-647383942).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.151346
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.14-01.52.00:717][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.14-01.52.00:717][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.14-01.52.00:741][  0]LogInit: Computer: LAPTOP-THAHA8LT
+[2017.10.14-01.52.00:741][  0]LogInit: User: 1111
+[2017.10.14-01.52.00:741][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.10.14-01.52.00:741][  0]LogInit: High frequency timer resolution =2.156251 MHz
+[2017.10.14-01.52.00:742][  0]LogMemory: Memory total: Physical=7.6GB (8GB approx)
+[2017.10.14-01.52.00:742][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.14-01.52.00:742][  0]LogMemory: Process Physical Memory: 277.64 MB used, 277.64 MB peak
+[2017.10.14-01.52.00:742][  0]LogMemory: Process Virtual Memory: 275.74 MB used, 275.74 MB peak
+[2017.10.14-01.52.00:742][  0]LogMemory: Physical Memory: 5837.00 MB used,  1935.49 MB free, 7772.49 MB total
+[2017.10.14-01.52.00:742][  0]LogMemory: Virtual Memory: 667.00 MB used,  1935.49 MB free, 134217728.00 MB total
+[2017.10.14-01.52.01:014][  0]LogInit: Using OS detected language (en-US).
+[2017.10.14-01.52.01:014][  0]LogInit: Using OS detected locale (en-US).
+[2017.10.14-01.52.01:018][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.14-01.52.02:118][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.14-01.52.02:128][  0]LogD3D11RHI:    0. 'Intel(R) Iris(TM) Graphics 540' (Feature Level 11_0)
+[2017.10.14-01.52.02:128][  0]LogD3D11RHI:       128/0/3886 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.10.14-01.52.02:130][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.14-01.52.02:130][  0]LogD3D11RHI:       0/0/3886 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.14-01.52.02:130][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.14-01.52.02:138][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.14-01.52.02:138][  0]LogD3D11RHI:     GPU DeviceId: 0x1926 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.14-01.52.02:138][  0]LogWindows: EnumDisplayDevices:
+[2017.10.14-01.52.02:138][  0]LogWindows:    0. 'Intel(R) Iris(TM) Graphics 540' (P:1 D:1)
+[2017.10.14-01.52.02:138][  0]LogWindows:    1. 'Intel(R) Iris(TM) Graphics 540' (P:0 D:0)
+[2017.10.14-01.52.02:139][  0]LogWindows:    2. 'Intel(R) Iris(TM) Graphics 540' (P:0 D:0)
+[2017.10.14-01.52.02:139][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.10.14-01.52.02:139][  0]LogD3D11RHI:     Adapter Name: Intel(R) Iris(TM) Graphics 540
+[2017.10.14-01.52.02:139][  0]LogD3D11RHI:   Driver Version: 21.20.16.4550 (internal:21.20.16.4550, unified:21.20.16.4550)
+[2017.10.14-01.52.02:139][  0]LogD3D11RHI:      Driver Date: 11-11-2016
+[2017.10.14-01.52.02:140][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.14-01.52.02:147][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.14-01.52.02:154][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2017.10.14-01.52.02:155][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Intermediate/Shaders/WorkingDirectory/4156/).
+[2017.10.14-01.52.02:156][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/1111/AppData/Local/Temp/UnrealShaderWorkingDir/0C14057E43B598CB9A8ECCA6B37320C0/'.
+[2017.10.14-01.52.02:156][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.14-01.52.03:333][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.14-01.52.03:403][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.14-01.52.03:469][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.14-01.52.03:549][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.14-01.52.03:655][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.14-01.52.03:755][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.14-01.52.03:849][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.14-01.52.03:952][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.14-01.52.04:041][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.14-01.52.04:129][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.14-01.52.04:220][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.14-01.52.04:308][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.14-01.52.04:391][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.14-01.52.04:481][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.14-01.52.04:565][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.14-01.52.04:735][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.14-01.52.04:735][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.14-01.52.04:809][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.14-01.52.04:943][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.14-01.52.04:983][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.14-01.52.05:049][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.14-01.52.05:113][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.14-01.52.05:175][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.14-01.52.05:244][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.14-01.52.05:244][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.14-01.52.06:019][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.14-01.52.06:145][  0]LogDerivedDataCache: Loaded boot cache 0.13s 93MB C:/Users/1111/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.14-01.52.06:146][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/1111/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.14-01.52.06:146][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.14-01.52.06:146][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.14-01.52.06:146][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.14-01.52.06:146][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.14-01.52.06:172][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.14-01.52.06:184][  0]LogDerivedDataCache: Using Local data cache path C:/Users/1111/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.14-01.52.06:202][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.14-01.52.06:203][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.14-01.52.06:203][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.14-01.52.06:203][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.14-01.52.06:619][  0]LogAssetRegistry: FAssetRegistry took 0.0298 seconds to start up
+[2017.10.14-01.52.06:833][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.14-01.52.07:116][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.14-01.52.07:622][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.14-01.52.07:686][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.14-01.52.07:686][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.14-01.52.07:686][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.14-01.52.07:686][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.14-01.52.07:687][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.14-01.52.08:295][  0]LogNetVersion: My2DReal , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3009781184)
+[2017.10.14-01.52.08:678][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.074858 seconds
+[2017.10.14-01.52.08:687][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.14-01.52.08:687][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.10.14-01.52.08:687][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.14-01.52.08:789][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.14-01.52.12:643][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.14-01.52.12:703][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.14-01.52.13:625][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.14-01.52.14:243][  0]SourceControl: Source control is disabled
+[2017.10.14-01.52.14:243][  0]SourceControl: Source control is disabled
+[2017.10.14-01.52.14:299][  0]SourceControl: Source control is disabled
+[2017.10.14-01.52.14:363][  0]SourceControl: Source control is disabled
+[2017.10.14-01.52.15:182][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.14-01.52.15:491][  0]LogOcInput: OculusInput pre-init called
+[2017.10.14-01.52.15:841][  0]LogEngine: Initializing Engine...
+[2017.10.14-01.52.15:844][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.14-01.52.16:139][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.14-01.52.16:139][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.14-01.52.16:329][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.14-01.52.16:341][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-01.52.16:358][  0]LogInit: FAudioDevice initialized.
+[2017.10.14-01.52.16:498][  0]LogDerivedDataCache: Saved boot cache 0.14s 93MB C:/Users/1111/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.14-01.52.16:527][  0]LogInit: Texture streaming: Enabled
+[2017.10.14-01.52.16:788][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.14-01.52.17:076][  0]LogInit: Transaction tracking system initialized
+[2017.10.14-01.52.17:470][  0]BlueprintLog: New page: Editor Load
+[2017.10.14-01.52.18:559][  0]LocalizationService: Localization service is disabled
+[2017.10.14-01.52.19:348][  0]LogConsoleResponse: Display: 
+[2017.10.14-01.52.19:573][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.14-01.52.19:573][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.14-01.52.19:573][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.14-01.52.19:844][  0]LogFileCache: Scanning file cache for directory 'C:/Users/1111/Documents/Unreal Projects/My2DReal/Content/' took 0.02s
+[2017.10.14-01.52.20:936][  0]SourceControl: Source control is disabled
+[2017.10.14-01.52.20:936][  0]Cmd: MAP LOAD FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.14-01.52.20:943][  0]LightingResults: New page: Lighting Build
+[2017.10.14-01.52.21:013][  0]MapCheck: New page: Map Check
+[2017.10.14-01.52.21:013][  0]LightingResults: New page: Lighting Build
+[2017.10.14-01.52.21:884][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.10.14-01.52.21:904][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.14-01.52.21:951][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-01.52.22:006][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.691ms to complete.
+[2017.10.14-01.52.22:006][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.070
+[2017.10.14-01.52.22:224][  0]LogCollectionManager: Loaded 0 collections in 0.002857 seconds
+[2017.10.14-01.52.22:351][  0]LogFileCache: Scanning file cache for directory 'C:/Users/1111/Documents/Unreal Projects/My2DReal/Saved/Collections/' took 0.01s
+[2017.10.14-01.52.22:351][  0]LogFileCache: Scanning file cache for directory 'C:/Users/1111/Documents/Unreal Projects/My2DReal/Content/Developers/1111/Collections/' took 0.01s
+[2017.10.14-01.52.22:351][  0]LogFileCache: Scanning file cache for directory 'C:/Users/1111/Documents/Unreal Projects/My2DReal/Content/Collections/' took 0.01s
+[2017.10.14-01.52.22:351][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.10.14-01.52.22:366][  0]LogContentBrowser: Native class hierarchy populated in 0.0130 seconds. Added 2386 classes and 500 folders.
+[2017.10.14-01.52.22:464][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.10.14-01.52.23:010][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.10.14-01.52.23:078][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.10.14-01.52.23:321][  0]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.14-01.52.23:324][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.14-01.52.23:340][  0]LogSlate: Took 0.006341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.14-01.52.23:351][  0]LogSlate: Took 0.007720 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2017.10.14-01.52.23:506][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2017.10.14-01.52.23:823][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.10.14-01.52.23:823][  0]LogLoad: (Engine Initialization) Total time: 25.26 seconds
+[2017.10.14-01.52.23:823][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.14-01.52.23:824][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.14-01.52.23:824][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.14-01.52.24:184][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.14-01.52.24:848][  2]LogAssetRegistry: Asset discovery search completed in 18.2508 seconds
+[2017.10.14-01.52.24:852][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.10.14-01.52.24:852][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000269 seconds (updated 0 objects)
+[2017.10.14-01.52.25:200][  3]LogSlate: Took 0.011021 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.14-01.52.28:515][ 13]LogSlate: Took 0.000587 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.14-01.52.33:698][ 40]LogEditorViewport: Clicking Background
+[2017.10.14-01.52.40:767][576]Cmd: MAP LOAD FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.14-01.52.40:772][576]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.14-01.52.40:780][576]LightingResults: New page: Lighting Build
+[2017.10.14-01.52.40:781][576]LoadErrors: New page: Loading map: Level1.umap
+[2017.10.14-01.52.40:782][576]MapCheck: New page: Map Check
+[2017.10.14-01.52.40:783][576]LightingResults: New page: Lighting Build
+[2017.10.14-01.52.41:035][576]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-01.52.41:120][576]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.14-01.52.41:192][576]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-01.52.41:255][576]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.627ms to complete.
+[2017.10.14-01.52.41:255][576]LogFileHelpers: Loading map 'Level1' took 0.489
+[2017.10.14-01.52.44:230][863]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-01.52.44:299][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-01.52.44:301][863]PIE: New page: PIE session: Level1 (Oct 13, 2017, 11:52:44 AM)
+[2017.10.14-01.52.44:301][863]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-01.52.44:303][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001282s)
+[2017.10.14-01.52.44:303][863]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-01.52.44:304][863]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2017.10.14-01.52.44:304][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.002972s)
+[2017.10.14-01.52.44:321][863]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-01.52.44:331][863]LogInit: FAudioDevice initialized.
+[2017.10.14-01.52.44:376][863]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-01.52.44:379][863]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.10.13-18.52.44
+[2017.10.14-01.52.44:381][863]LogWorld: Bringing up level for play took: 0.002423
+[2017.10.14-01.52.44:428][863]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2017.10.14-01.52.44:432][863]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 1.069
+[2017.10.14-01.55.03:830][567]LogMetaData: Removing '/Game/HealthBarHUD.SKEL_HealthBarHUD_C' ref from Metadata '/Game/HealthBar.PackageMetaData'
+[2017.10.14-01.55.03:831][567]LogMetaData: Removing '/Game/HealthBarHUD.HealthBarHUD_C' ref from Metadata '/Game/HealthBar.PackageMetaData'
+[2017.10.14-01.55.03:831][567]LogMetaData: Removing '/Game/HealthBarHUD.HealthBarHUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/HealthBar.PackageMetaData'
+[2017.10.14-01.55.03:831][567]LogMetaData: Removing '/Game/HealthBarHUD.HealthBarHUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/HealthBar.PackageMetaData'
+[2017.10.14-01.55.03:831][567]LogMetaData: Removing '/Game/HealthBarHUD.HealthBarHUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/HealthBar.PackageMetaData'
+[2017.10.14-01.55.03:850][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBarHUD" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset" SILENT=true
+[2017.10.14-01.55.03:876][567]LogSavePackage: Save=22.07ms
+[2017.10.14-01.55.03:876][567]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/HealthBarHUD6320579240D35F6FF85611A6EBD347B5.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset'
+[2017.10.14-01.55.03:883][567]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset
+[2017.10.14-01.55.08:803][670]LogSlate: Took 0.005687 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.14-01.55.09:169][670]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 113 classes and 0 folders.
+[2017.10.14-01.55.10:588][670]LogSlate: Took 0.006016 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.14-01.55.32:613][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:614][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:631][115]LogSlate: Took 0.016628 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.10.14-01.55.32:632][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:632][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:633][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:633][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:634][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:634][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:634][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:635][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:635][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:635][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:636][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:636][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:636][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:637][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:637][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:638][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:638][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:638][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:639][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:639][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:640][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:640][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:640][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:641][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:641][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:641][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:642][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:642][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:643][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:643][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:644][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:644][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:644][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:645][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:645][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:645][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:646][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:646][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:647][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:647][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:647][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:648][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:648][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:649][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:649][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:649][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:650][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:650][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.55.32:651][115]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf' error.
+[2017.10.14-01.55.32:651][115]LogSlate: Warning: GetFontFace failed to load or process '../../../Engine/Content/Slate/Fonts/Fonts/Roboto-Bold.ttf'
+[2017.10.14-01.56.39:226][390]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:237][390]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_2' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:241][390]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_4' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:275][391]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_6' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:279][391]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_8' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:309][392]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_10' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:313][392]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_12' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:343][393]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_14' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:347][393]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_16' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:379][394]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_18' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:411][395]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_20' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:415][395]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_22' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:449][396]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_24' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:486][397]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_26' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:515][398]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_28' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:546][399]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_30' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:578][400]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_32' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:613][401]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_34' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:645][402]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_36' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:675][403]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_38' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:679][403]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_40' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:711][404]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_42' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:744][405]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_44' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:775][406]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_46' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:779][406]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_48' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:809][407]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_50' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:814][407]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_52' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:845][408]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_54' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:849][408]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_56' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:879][409]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_58' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:884][409]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_60' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:912][410]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_62' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:943][411]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_64' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:972][412]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_66' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.39:977][412]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_68' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:009][413]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_70' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:040][414]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_72' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:045][414]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_74' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:076][415]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_76' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:107][416]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_78' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:111][416]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_80' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:142][417]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_82' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:172][418]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_84' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:175][418]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_86' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:178][418]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_88' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:209][419]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_90' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:213][419]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_92' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:243][420]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_94' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:247][420]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_96' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:277][421]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_98' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:281][421]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_100' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:311][422]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_102' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:313][422]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_104' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:318][422]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_106' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:349][423]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_108' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:380][424]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_110' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:385][424]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_112' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:418][425]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_114' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:451][426]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_116' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:483][427]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_118' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.56.40:515][428]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_120' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-01.58.55:374][319]BlueprintLog: New page: Compile HealthBarHUD
+[2017.10.14-01.58.56:481][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBarHUD" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset" SILENT=true
+[2017.10.14-01.58.56:546][346]LogSavePackage: Save=29.21ms
+[2017.10.14-01.58.56:547][346]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/HealthBarHUDAF43A9DC46C3A45433140784D6580199.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset'
+[2017.10.14-01.58.56:553][346]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset
+[2017.10.14-01.59.05:907][668]LogSlate: Took 0.007872 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.14-02.02.29:753][644]BlueprintLog: New page: Compile NewCharacter
+[2017.10.14-02.02.31:068][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/NewCharacter" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset" SILENT=true
+[2017.10.14-02.02.31:244][672]LogSavePackage: Save=142.13ms
+[2017.10.14-02.02.31:244][672]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/NewCharacterDD54C83440BF8A41C89F38BC75B4F2D8.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset'
+[2017.10.14-02.02.31:249][672]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset
+[2017.10.14-02.02.34:311][801]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-02.02.34:381][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-02.02.34:381][801]PIE: New page: PIE session: Level1 (Oct 13, 2017, 12:02:34 PM)
+[2017.10.14-02.02.34:382][801]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-02.02.34:384][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001626s)
+[2017.10.14-02.02.34:385][801]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-02.02.34:386][801]LogPlayLevel: PIE: World Init took: (0.001644s)
+[2017.10.14-02.02.34:386][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004298s)
+[2017.10.14-02.02.34:431][801]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-02.02.34:450][801]LogInit: FAudioDevice initialized.
+[2017.10.14-02.02.34:487][801]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-02.02.34:490][801]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.10.13-19.02.34
+[2017.10.14-02.02.34:490][801]LogWorld: Bringing up level for play took: 0.002132
+[2017.10.14-02.02.34:497][801]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 -0.866
+[2017.10.14-02.03.34:349][ 94]LogSlate: Took 0.010166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.10.14-02.03.57:073][509]BlueprintLog: New page: Compile NewCharacter
+[2017.10.14-02.03.58:470][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/NewCharacter" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset" SILENT=true
+[2017.10.14-02.03.58:657][536]LogSavePackage: Save=168.28ms
+[2017.10.14-02.03.58:657][536]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/NewCharacter72C6280F468093177DE14FB286F6AE84.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset'
+[2017.10.14-02.03.58:662][536]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset
+[2017.10.14-02.04.32:233][221]BlueprintLog: New page: Compile NewCharacter
+[2017.10.14-02.04.33:453][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/NewCharacter" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset" SILENT=true
+[2017.10.14-02.04.33:611][243]LogSavePackage: Save=146.30ms
+[2017.10.14-02.04.33:612][243]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/NewCharacterAE404C0F4C4A6B7602C4F2B02BAAEC5C.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset'
+[2017.10.14-02.04.33:617][243]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset
+[2017.10.14-02.06.41:955][218]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level1' took 0.041
+[2017.10.14-02.06.41:959][218]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HealthBarHUD] ([1] browsable assets)...
+[2017.10.14-02.06.41:960][218]OBJ SavePackage: Finished generating thumbnails for package [/Game/HealthBarHUD]
+[2017.10.14-02.06.41:960][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBarHUD" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/HealthBarHUD_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.10.14-02.06.42:023][218]LogSavePackage: Save=34.10ms
+[2017.10.14-02.06.42:023][218]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/HealthBarHUD_Auto140AF0EB34A4BABE1950B5F98C3A3DBAB.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/HealthBarHUD_Auto1.uasset'
+[2017.10.14-02.06.42:025][218]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/HealthBarHUD_Auto1.uasset
+[2017.10.14-02.06.42:025][218]LogFileHelpers: Auto-saving content packages took 0.068
+[2017.10.14-02.13.19:388][606]BlueprintLog: New page: Compile HealthBarHUD
+[2017.10.14-02.13.20:601][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBarHUD" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset" SILENT=true
+[2017.10.14-02.13.20:668][639]LogSavePackage: Save=32.35ms
+[2017.10.14-02.13.20:668][639]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/HealthBarHUDA49EAC9B42B48618716F29B54A10FC73.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset'
+[2017.10.14-02.13.20:690][639]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset
+[2017.10.14-02.16.23:351][431]BlueprintLog: New page: Compile HealthBarHUD
+[2017.10.14-02.16.24:849][480]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-02.16.24:894][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-02.16.24:895][480]PIE: New page: PIE session: Level1 (Oct 13, 2017, 12:16:24 PM)
+[2017.10.14-02.16.24:895][480]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-02.16.24:898][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002346s)
+[2017.10.14-02.16.24:899][480]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-02.16.24:899][480]LogPlayLevel: PIE: World Init took: (0.001340s)
+[2017.10.14-02.16.24:900][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004646s)
+[2017.10.14-02.16.24:940][480]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-02.16.24:954][480]LogInit: FAudioDevice initialized.
+[2017.10.14-02.16.24:999][480]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-02.16.25:001][480]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.10.13-19.16.25
+[2017.10.14-02.16.25:002][480]LogWorld: Bringing up level for play took: 0.002212
+[2017.10.14-02.16.25:006][480]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 -0.357
+[2017.10.14-02.16.29:357][658]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-02.16.29:441][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-02.16.29:442][658]PIE: New page: PIE session: Level1 (Oct 13, 2017, 12:16:29 PM)
+[2017.10.14-02.16.29:442][658]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-02.16.29:443][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001153s)
+[2017.10.14-02.16.29:444][658]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-02.16.29:445][658]LogPlayLevel: PIE: World Init took: (0.001422s)
+[2017.10.14-02.16.29:445][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.003506s)
+[2017.10.14-02.16.29:479][658]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-02.16.29:490][658]LogInit: FAudioDevice initialized.
+[2017.10.14-02.16.29:532][658]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-02.16.29:536][658]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.10.13-19.16.29
+[2017.10.14-02.16.29:538][658]LogWorld: Bringing up level for play took: 0.004027
+[2017.10.14-02.16.29:545][658]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 0.183
+[2017.10.14-02.17.31:404][880]BlueprintLog: New page: Compile HealthBarHUD
+[2017.10.14-02.17.32:546][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBarHUD" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset" SILENT=true
+[2017.10.14-02.17.32:591][912]LogSavePackage: Save=34.94ms
+[2017.10.14-02.17.32:592][912]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/HealthBarHUD44331143401780F720E0B891A1B5B526.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset'
+[2017.10.14-02.17.32:595][912]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset
+[2017.10.14-02.17.53:763][854]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-02.17.53:818][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-02.17.53:819][854]PIE: New page: PIE session: Level1 (Oct 13, 2017, 12:17:53 PM)
+[2017.10.14-02.17.53:819][854]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-02.17.53:822][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002289s)
+[2017.10.14-02.17.53:823][854]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-02.17.53:824][854]LogPlayLevel: PIE: World Init took: (0.001580s)
+[2017.10.14-02.17.53:824][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004908s)
+[2017.10.14-02.17.53:872][854]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-02.17.53:889][854]LogInit: FAudioDevice initialized.
+[2017.10.14-02.17.53:930][854]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-02.17.53:932][854]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.10.13-19.17.53
+[2017.10.14-02.17.53:933][854]LogWorld: Bringing up level for play took: 0.002714
+[2017.10.14-02.17.53:937][854]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 0.574
+[2017.10.14-02.18.03:828][361]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-02.18.03:889][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-02.18.03:889][361]PIE: New page: PIE session: Level1 (Oct 13, 2017, 12:18:03 PM)
+[2017.10.14-02.18.03:890][361]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-02.18.03:892][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002186s)
+[2017.10.14-02.18.03:894][361]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-02.18.03:894][361]LogPlayLevel: PIE: World Init took: (0.001842s)
+[2017.10.14-02.18.03:895][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.005238s)
+[2017.10.14-02.18.03:943][361]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-02.18.03:960][361]LogInit: FAudioDevice initialized.
+[2017.10.14-02.18.03:995][361]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-02.18.03:998][361]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.10.13-19.18.03
+[2017.10.14-02.18.03:998][361]LogWorld: Bringing up level for play took: 0.002173
+[2017.10.14-02.18.04:001][361]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 0.638
+[2017.10.14-02.18.18:849][ 91]LogRenderer: Reallocating scene render targets to support 964x708 Format 10 NumSamples 1 (Frame:1).
+[2017.10.14-02.18.48:804][665]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level1' took 0.053
+[2017.10.14-02.18.48:809][665]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/BasicTileMap] ([1] browsable assets)...
+[2017.10.14-02.18.48:809][665]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/BasicTileMap]
+[2017.10.14-02.18.48:917][665]LogSavePackage: Save=74.28ms
+[2017.10.14-02.18.48:917][665]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/BasicTileMap_Auto28607E8E54AE02E07E75168BDE2B271DE.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/Textures/BasicTileMap_Auto2.uasset'
+[2017.10.14-02.18.48:922][665]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/Textures/BasicTileMap_Auto2.uasset
+[2017.10.14-02.18.48:923][665]LogFileHelpers: Auto-saving content packages took 0.117
+[2017.10.14-02.22.29:985][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-02.22.30:069][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-02.22.30:069][ 69]PIE: New page: PIE session: Level1 (Oct 13, 2017, 12:22:30 PM)
+[2017.10.14-02.22.30:069][ 69]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-02.22.30:071][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001321s)
+[2017.10.14-02.22.30:072][ 69]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-02.22.30:072][ 69]LogPlayLevel: PIE: World Init took: (0.001369s)
+[2017.10.14-02.22.30:073][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.003410s)
+[2017.10.14-02.22.30:103][ 69]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-02.22.30:114][ 69]LogInit: FAudioDevice initialized.
+[2017.10.14-02.22.30:146][ 69]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-02.22.30:148][ 69]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.10.13-19.22.30
+[2017.10.14-02.22.30:149][ 69]LogWorld: Bringing up level for play took: 0.001792
+[2017.10.14-02.22.30:151][ 69]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 0.788
+[2017.10.14-02.23.46:124][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/BasicTileMap" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Textures/BasicTileMap.uasset" SILENT=true
+[2017.10.14-02.23.46:231][411]LogSavePackage: Save=90.89ms
+[2017.10.14-02.23.46:232][411]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/BasicTileMapD04B19BE42019ED98438A0A1C433E5C0.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Textures/BasicTileMap.uasset'
+[2017.10.14-02.23.46:242][411]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Textures/BasicTileMap.uasset
+[2017.10.14-02.31.35:258][ 23]BlueprintLog: New page: Compile NewCharacter
+[2017.10.14-02.31.37:045][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/NewCharacter" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset" SILENT=true
+[2017.10.14-02.31.37:177][ 77]LogSavePackage: Save=103.24ms
+[2017.10.14-02.31.37:177][ 77]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/NewCharacter236C6C234EB99C9AAC6594877CADFF21.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset'
+[2017.10.14-02.31.37:181][ 77]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset
+[2017.10.14-02.31.41:717][255]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-02.31.41:784][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-02.31.41:784][255]PIE: New page: PIE session: Level1 (Oct 13, 2017, 12:31:41 PM)
+[2017.10.14-02.31.41:785][255]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-02.31.41:787][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001616s)
+[2017.10.14-02.31.41:788][255]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-02.31.41:789][255]LogPlayLevel: PIE: World Init took: (0.002055s)
+[2017.10.14-02.31.41:790][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004910s)
+[2017.10.14-02.31.41:841][255]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-02.31.41:856][255]LogInit: FAudioDevice initialized.
+[2017.10.14-02.31.41:886][255]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-02.31.41:888][255]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.10.13-19.31.41
+[2017.10.14-02.31.41:888][255]LogWorld: Bringing up level for play took: 0.001865
+[2017.10.14-02.31.41:891][255]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 0.528
+[2017.10.14-02.34.46:972][182]BlueprintLog: New page: Compile HealthBarHUD
+[2017.10.14-02.34.48:229][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBarHUD" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset" SILENT=true
+[2017.10.14-02.34.48:265][217]LogSavePackage: Save=18.01ms
+[2017.10.14-02.34.48:265][217]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/HealthBarHUD9162D7274A4EB79F884CBEA3884539D1.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset'
+[2017.10.14-02.34.48:270][217]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset
+[2017.10.14-02.36.15:541][136]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level1' took 0.038
+[2017.10.14-02.36.15:543][136]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/NewCharacter] ([1] browsable assets)...
+[2017.10.14-02.36.15:544][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/NewCharacter]
+[2017.10.14-02.36.15:656][136]LogSavePackage: Save=105.44ms
+[2017.10.14-02.36.15:656][136]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/NewCharacter_Auto3386CA653410139017378AE9FD4A154D2.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/Character/NewCharacter_Auto3.uasset'
+[2017.10.14-02.36.15:659][136]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/Character/NewCharacter_Auto3.uasset
+[2017.10.14-02.36.15:660][136]LogFileHelpers: Auto-saving content packages took 0.118
+[2017.10.14-02.38.19:318][814]BlueprintLog: New page: Compile NewCharacter
+[2017.10.14-02.38.19:359][814]LogBlueprint: Error: [Compiler NewCharacter] Could not find a pin for the parameter Health of UpdateHealth__DelegateSignature on  Call UpdateHealth
+[2017.10.14-02.38.19:360][814]LogBlueprint: Error: [Compiler NewCharacter] Pin  New Param  named NewParam doesn't match any parameters of function UpdateHealth__DelegateSignature
+[2017.10.14-02.38.19:360][814]LogBlueprint: Error: [Compiler NewCharacter] Could not find a pin for the parameter Health of UpdateHealth__DelegateSignature on  Call UpdateHealth
+[2017.10.14-02.38.19:361][814]LogBlueprint: Error: [Compiler NewCharacter] Pin  New Param  named NewParam doesn't match any parameters of function UpdateHealth__DelegateSignature
+[2017.10.14-02.38.19:584][814]LogBlueprint: Warning: [Compiler NewCharacter] [2781.02] Compile of NewCharacter failed. 4 Fatal Issue(s) 0 Warning(s) [in 266 ms] (/Game/Character/NewCharacter.NewCharacter)
+[2017.10.14-02.38.20:166][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/NewCharacter" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset" SILENT=true
+[2017.10.14-02.38.20:271][834]LogSavePackage: Save=91.69ms
+[2017.10.14-02.38.20:272][834]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/NewCharacter5DB87D664905C5BCC874EA90C2A30660.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset'
+[2017.10.14-02.38.20:275][834]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset
+[2017.10.14-02.38.30:123][202]BlueprintLog: New page: Compile NewCharacter
+[2017.10.14-02.38.30:167][202]LogBlueprint: Error: [Compiler NewCharacter] Could not find a pin for the parameter Health of UpdateHealth__DelegateSignature on  Call UpdateHealth
+[2017.10.14-02.38.30:167][202]LogBlueprint: Error: [Compiler NewCharacter] Pin  New Param  named NewParam doesn't match any parameters of function UpdateHealth__DelegateSignature
+[2017.10.14-02.38.30:167][202]LogBlueprint: Error: [Compiler NewCharacter] Could not find a pin for the parameter Health of UpdateHealth__DelegateSignature on  Call UpdateHealth
+[2017.10.14-02.38.30:168][202]LogBlueprint: Error: [Compiler NewCharacter] Pin  New Param  named NewParam doesn't match any parameters of function UpdateHealth__DelegateSignature
+[2017.10.14-02.38.30:377][202]LogBlueprint: Warning: [Compiler NewCharacter] [2791.82] Compile of NewCharacter failed. 4 Fatal Issue(s) 0 Warning(s) [in 253 ms] (/Game/Character/NewCharacter.NewCharacter)
+[2017.10.14-02.38.56:229][168]BlueprintLog: New page: Compile NewCharacter
+[2017.10.14-02.38.58:091][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/NewCharacter" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset" SILENT=true
+[2017.10.14-02.38.58:276][227]LogSavePackage: Save=163.67ms
+[2017.10.14-02.38.58:276][227]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/NewCharacter4034BB704D1D8ABBC86F848653D82E89.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset'
+[2017.10.14-02.38.58:280][227]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset
+[2017.10.14-02.43.59:607][139]BlueprintLog: New page: Compile HealthBarHUD
+[2017.10.14-02.44.00:946][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBarHUD" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset" SILENT=true
+[2017.10.14-02.44.00:996][176]LogSavePackage: Save=32.02ms
+[2017.10.14-02.44.00:997][176]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/HealthBarHUD138665274B201F64FD9EF5845EB081BE.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset'
+[2017.10.14-02.44.01:001][176]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset
+[2017.10.14-02.44.11:323][450]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-02.44.11:381][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-02.44.11:382][450]PIE: New page: PIE session: Level1 (Oct 13, 2017, 12:44:11 PM)
+[2017.10.14-02.44.11:382][450]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-02.44.11:384][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001370s)
+[2017.10.14-02.44.11:385][450]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-02.44.11:386][450]LogPlayLevel: PIE: World Init took: (0.001798s)
+[2017.10.14-02.44.11:386][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004143s)
+[2017.10.14-02.44.11:434][450]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-02.44.11:450][450]LogInit: FAudioDevice initialized.
+[2017.10.14-02.44.11:481][450]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-02.44.11:483][450]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-19.44.11
+[2017.10.14-02.44.11:483][450]LogWorld: Bringing up level for play took: 0.001740
+[2017.10.14-02.44.11:486][450]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 0.123
+[2017.10.14-02.44.24:513][113]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-02.44.24:555][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-02.44.24:555][113]PIE: New page: PIE session: Level1 (Oct 13, 2017, 12:44:24 PM)
+[2017.10.14-02.44.24:555][113]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-02.44.24:556][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000883s)
+[2017.10.14-02.44.24:557][113]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-02.44.24:557][113]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2017.10.14-02.44.24:558][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.002611s)
+[2017.10.14-02.44.24:589][113]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-02.44.24:600][113]LogInit: FAudioDevice initialized.
+[2017.10.14-02.44.24:631][113]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-02.44.24:633][113]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-19.44.24
+[2017.10.14-02.44.24:634][113]LogWorld: Bringing up level for play took: 0.002025
+[2017.10.14-02.44.24:637][113]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 -0.726
+[2017.10.14-02.45.08:821][368]BlueprintLog: New page: Compile NewCharacter
+[2017.10.14-02.45.09:792][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/NewCharacter" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset" SILENT=true
+[2017.10.14-02.45.09:911][389]LogSavePackage: Save=103.22ms
+[2017.10.14-02.45.09:912][389]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/NewCharacterE44E203949040A33A1E394817FA9E93E.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset'
+[2017.10.14-02.45.09:913][389]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset
+[2017.10.14-02.45.12:828][506]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-02.45.12:929][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-02.45.12:930][506]PIE: New page: PIE session: Level1 (Oct 13, 2017, 12:45:12 PM)
+[2017.10.14-02.45.12:930][506]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-02.45.12:932][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001611s)
+[2017.10.14-02.45.12:934][506]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-02.45.12:934][506]LogPlayLevel: PIE: World Init took: (0.002168s)
+[2017.10.14-02.45.12:935][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.005189s)
+[2017.10.14-02.45.12:992][506]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-02.45.13:012][506]LogInit: FAudioDevice initialized.
+[2017.10.14-02.45.13:047][506]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-02.45.13:049][506]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-19.45.13
+[2017.10.14-02.45.13:050][506]LogWorld: Bringing up level for play took: 0.002465
+[2017.10.14-02.45.13:053][506]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 -0.31
+[2017.10.14-02.45.18:370][760]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-02.45.18:427][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-02.45.18:428][760]PIE: New page: PIE session: Level1 (Oct 13, 2017, 12:45:18 PM)
+[2017.10.14-02.45.18:428][760]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-02.45.18:430][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001430s)
+[2017.10.14-02.45.18:431][760]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-02.45.18:432][760]LogPlayLevel: PIE: World Init took: (0.001743s)
+[2017.10.14-02.45.18:432][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004263s)
+[2017.10.14-02.45.18:484][760]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-02.45.18:499][760]LogInit: FAudioDevice initialized.
+[2017.10.14-02.45.18:539][760]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-02.45.18:541][760]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-19.45.18
+[2017.10.14-02.45.18:542][760]LogWorld: Bringing up level for play took: 0.002653
+[2017.10.14-02.45.18:546][760]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 -0.817
+[2017.10.14-02.47.25:039][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-02.47.25:154][210]LogSavePackage: Save=27.54ms
+[2017.10.14-02.47.25:155][210]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Level18F6FD97147189767DBE09790F0A70699.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap'
+[2017.10.14-02.47.25:158][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap
+[2017.10.14-02.47.25:281][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset" SILENT=true
+[2017.10.14-02.47.25:315][210]LogSavePackage: Save=12.27ms
+[2017.10.14-02.47.25:316][210]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Level1_BuiltData70F870D646EB7073A3C29E80E2399B37.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset'
+[2017.10.14-02.47.25:320][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset
+[2017.10.14-02.47.26:610][262]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-02.47.26:684][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-02.47.26:685][262]PIE: New page: PIE session: Level1 (Oct 13, 2017, 12:47:26 PM)
+[2017.10.14-02.47.26:686][262]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-02.47.26:689][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002775s)
+[2017.10.14-02.47.26:691][262]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-02.47.26:692][262]LogPlayLevel: PIE: World Init took: (0.002374s)
+[2017.10.14-02.47.26:692][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.006598s)
+[2017.10.14-02.47.26:746][262]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-02.47.26:756][262]LogInit: FAudioDevice initialized.
+[2017.10.14-02.47.26:789][262]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-02.47.26:790][262]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-19.47.26
+[2017.10.14-02.47.26:791][262]LogWorld: Bringing up level for play took: 0.001830
+[2017.10.14-02.47.26:793][262]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 -0.569
+[2017.10.14-02.47.40:366][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/BasicTileMap" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Textures/BasicTileMap.uasset" SILENT=true
+[2017.10.14-02.47.40:468][815]LogSavePackage: Save=68.65ms
+[2017.10.14-02.47.40:468][815]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/BasicTileMap4D42C3C44B7F8DBD22607BB1F9CD452E.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Textures/BasicTileMap.uasset'
+[2017.10.14-02.47.40:472][815]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Textures/BasicTileMap.uasset
+[2017.10.14-02.47.42:180][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/BasicTileMap" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Textures/BasicTileMap.uasset" SILENT=true
+[2017.10.14-02.47.42:260][860]LogSavePackage: Save=61.91ms
+[2017.10.14-02.47.42:260][860]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/BasicTileMapCEEC97024C0D68F0AB8528BCB1250EB0.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Textures/BasicTileMap.uasset'
+[2017.10.14-02.47.42:263][860]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Textures/BasicTileMap.uasset
+[2017.10.14-02.47.45:514][974]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-02.47.45:584][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-02.47.45:585][974]PIE: New page: PIE session: Level1 (Oct 13, 2017, 12:47:45 PM)
+[2017.10.14-02.47.45:585][974]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-02.47.45:588][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002008s)
+[2017.10.14-02.47.45:589][974]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-02.47.45:590][974]LogPlayLevel: PIE: World Init took: (0.002280s)
+[2017.10.14-02.47.45:591][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.005471s)
+[2017.10.14-02.47.45:643][974]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-02.47.45:657][974]LogInit: FAudioDevice initialized.
+[2017.10.14-02.47.45:689][974]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-02.47.45:692][974]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-19.47.45
+[2017.10.14-02.47.45:692][974]LogWorld: Bringing up level for play took: 0.002219
+[2017.10.14-02.47.45:695][974]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 0.332
+[2017.10.14-02.47.53:301][336]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-02.47.53:372][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-02.47.53:373][336]PIE: New page: PIE session: Level1 (Oct 13, 2017, 12:47:53 PM)
+[2017.10.14-02.47.53:373][336]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-02.47.53:375][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001731s)
+[2017.10.14-02.47.53:377][336]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-02.47.53:378][336]LogPlayLevel: PIE: World Init took: (0.002161s)
+[2017.10.14-02.47.53:378][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.005302s)
+[2017.10.14-02.47.53:435][336]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-02.47.53:449][336]LogInit: FAudioDevice initialized.
+[2017.10.14-02.47.53:484][336]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-02.47.53:487][336]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-19.47.53
+[2017.10.14-02.47.53:487][336]LogWorld: Bringing up level for play took: 0.002235
+[2017.10.14-02.47.53:490][336]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 0.127
+[2017.10.14-02.48.22:212][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/NewCharacter" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset" SILENT=true
+[2017.10.14-02.48.22:323][386]LogSavePackage: Save=101.69ms
+[2017.10.14-02.48.22:324][386]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/NewCharacter0B69769E4A3BC2BCDC55A3AB332D39CE.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset'
+[2017.10.14-02.48.22:325][386]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset
+[2017.10.14-02.49.59:998][989]BlueprintLog: New page: Compile NewCharacter
+[2017.10.14-02.50.01:228][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/NewCharacter" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset" SILENT=true
+[2017.10.14-02.50.01:361][ 19]LogSavePackage: Save=119.10ms
+[2017.10.14-02.50.01:361][ 19]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/NewCharacterC7FAC7C1444C3065B6DDBD824E562EDA.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset'
+[2017.10.14-02.50.01:366][ 19]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset
+[2017.10.14-02.50.04:063][128]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-02.50.04:111][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-02.50.04:111][128]PIE: New page: PIE session: Level1 (Oct 13, 2017, 12:50:04 PM)
+[2017.10.14-02.50.04:112][128]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-02.50.04:114][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001677s)
+[2017.10.14-02.50.04:115][128]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-02.50.04:115][128]LogPlayLevel: PIE: World Init took: (0.001599s)
+[2017.10.14-02.50.04:116][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004334s)
+[2017.10.14-02.50.04:153][128]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-02.50.04:169][128]LogInit: FAudioDevice initialized.
+[2017.10.14-02.50.04:204][128]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-02.50.04:206][128]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-19.50.04
+[2017.10.14-02.50.04:206][128]LogWorld: Bringing up level for play took: 0.001832
+[2017.10.14-02.50.04:209][128]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 0.846
+[2017.10.14-02.50.25:409][152]LogEditorViewport: Clicking on Actor (LMB): Spawner_C (Spawner)
+[2017.10.14-02.50.28:477][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-02.50.28:526][326]LogSavePackage: Save=15.02ms
+[2017.10.14-02.50.28:526][326]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Level154936CC8441184B42D0263811E389802.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap'
+[2017.10.14-02.50.28:531][326]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap
+[2017.10.14-02.50.28:575][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset" SILENT=true
+[2017.10.14-02.50.28:585][326]LogSavePackage: Save=5.03ms
+[2017.10.14-02.50.28:585][326]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Level1_BuiltData7FDCC3944583ABC977FE1CA3BB69E0D0.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset'
+[2017.10.14-02.50.28:587][326]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset
+[2017.10.14-02.50.30:210][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-02.50.30:253][420]LogSavePackage: Save=12.55ms
+[2017.10.14-02.50.30:253][420]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Level1331B066140ECE0AEDC7CB7A6238A85CF.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap'
+[2017.10.14-02.50.30:255][420]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap
+[2017.10.14-02.50.30:299][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset" SILENT=true
+[2017.10.14-02.50.30:311][420]LogSavePackage: Save=6.04ms
+[2017.10.14-02.50.30:311][420]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Level1_BuiltData5DCA99154577B08A63788D8F95F3AADA.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset'
+[2017.10.14-02.50.30:313][420]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset
+[2017.10.14-02.50.31:219][472]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-02.50.31:255][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-02.50.31:255][472]PIE: New page: PIE session: Level1 (Oct 13, 2017, 12:50:31 PM)
+[2017.10.14-02.50.31:255][472]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-02.50.31:257][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001132s)
+[2017.10.14-02.50.31:258][472]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-02.50.31:258][472]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2017.10.14-02.50.31:258][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.002950s)
+[2017.10.14-02.50.31:286][472]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-02.50.31:296][472]LogInit: FAudioDevice initialized.
+[2017.10.14-02.50.31:331][472]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-02.50.31:333][472]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-19.50.31
+[2017.10.14-02.50.31:334][472]LogWorld: Bringing up level for play took: 0.001752
+[2017.10.14-02.50.31:336][472]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 -0.027
+[2017.10.14-02.53.43:631][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBarHUD" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset" SILENT=true
+[2017.10.14-02.53.43:692][762]LogSavePackage: Save=41.03ms
+[2017.10.14-02.53.43:692][762]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/HealthBarHUD9BE962C64AD59E86E86EF49BC8E73088.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset'
+[2017.10.14-02.53.43:701][762]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset
+[2017.10.14-02.53.52:967][266]BlueprintLog: New page: Compile HealthBarHUD
+[2017.10.14-02.53.54:001][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBarHUD" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset" SILENT=true
+[2017.10.14-02.53.54:041][306]LogSavePackage: Save=30.61ms
+[2017.10.14-02.53.54:041][306]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/HealthBarHUDB05A6D764FC4B5BDA21DE5826B6A7DAC.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset'
+[2017.10.14-02.53.54:043][306]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset
+[2017.10.14-02.55.32:547][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBarHUD" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset" SILENT=true
+[2017.10.14-02.55.32:589][682]LogSavePackage: Save=33.55ms
+[2017.10.14-02.55.32:589][682]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/HealthBarHUD2444B64147FABEC77E7FE59F582AE527.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset'
+[2017.10.14-02.55.32:593][682]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset
+[2017.10.14-02.55.35:105][819]BlueprintLog: New page: Compile HealthBarHUD
+[2017.10.14-02.55.36:229][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBarHUD" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset" SILENT=true
+[2017.10.14-02.55.36:270][865]LogSavePackage: Save=32.66ms
+[2017.10.14-02.55.36:270][865]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/HealthBarHUD4990CC4A4135574F16C4E89362C42E79.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset'
+[2017.10.14-02.55.36:272][865]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset
+[2017.10.14-02.55.42:577][112]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-02.55.42:627][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-02.55.42:628][112]PIE: New page: PIE session: Level1 (Oct 13, 2017, 12:55:42 PM)
+[2017.10.14-02.55.42:628][112]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-02.55.42:629][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000903s)
+[2017.10.14-02.55.42:630][112]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-02.55.42:630][112]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2017.10.14-02.55.42:631][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.002707s)
+[2017.10.14-02.55.42:658][112]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-02.55.42:668][112]LogInit: FAudioDevice initialized.
+[2017.10.14-02.55.42:702][112]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-02.55.42:703][112]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-19.55.42
+[2017.10.14-02.55.42:704][112]LogWorld: Bringing up level for play took: 0.001754
+[2017.10.14-02.55.42:706][112]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 -0.657
+[2017.10.14-02.56.01:245][110]LogEditorViewport: Clicking on Actor (LMB): Spawner_C (Spawner)
+[2017.10.14-02.56.02:438][180]LogEditorViewport: Clicking on Actor (LMB): Spawner_C (Spawner)
+[2017.10.14-02.56.05:167][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-02.56.05:216][339]LogSavePackage: Save=13.11ms
+[2017.10.14-02.56.05:217][339]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Level14B61E4CF40DB6F7D39938C843C8A3716.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap'
+[2017.10.14-02.56.05:220][339]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap
+[2017.10.14-02.56.05:266][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset" SILENT=true
+[2017.10.14-02.56.05:284][339]LogSavePackage: Save=5.54ms
+[2017.10.14-02.56.05:284][339]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Level1_BuiltData221B598541B942F86A3E3A928AE2A154.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset'
+[2017.10.14-02.56.05:287][339]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset
+[2017.10.14-02.56.07:430][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-02.56.07:475][466]LogSavePackage: Save=12.94ms
+[2017.10.14-02.56.07:475][466]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Level173637B5941F4FEC87F11AB92AC14DF87.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap'
+[2017.10.14-02.56.07:477][466]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap
+[2017.10.14-02.56.07:521][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset" SILENT=true
+[2017.10.14-02.56.07:536][466]LogSavePackage: Save=7.21ms
+[2017.10.14-02.56.07:536][466]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Level1_BuiltData15FE0B224B5A0EFA1F686988B6C4A97E.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset'
+[2017.10.14-02.56.07:538][466]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset
+[2017.10.14-02.56.08:469][522]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-02.56.08:503][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-02.56.08:503][522]PIE: New page: PIE session: Level1 (Oct 13, 2017, 12:56:08 PM)
+[2017.10.14-02.56.08:503][522]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-02.56.08:504][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000830s)
+[2017.10.14-02.56.08:505][522]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-02.56.08:505][522]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2017.10.14-02.56.08:506][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.002538s)
+[2017.10.14-02.56.08:533][522]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-02.56.08:543][522]LogInit: FAudioDevice initialized.
+[2017.10.14-02.56.08:573][522]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-02.56.08:575][522]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-19.56.08
+[2017.10.14-02.56.08:575][522]LogWorld: Bringing up level for play took: 0.001725
+[2017.10.14-02.56.08:578][522]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 -0.785
+[2017.10.14-03.01.14:371][696]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-03.01.14:415][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-03.01.14:415][696]PIE: New page: PIE session: Level1 (Oct 13, 2017, 1:01:14 PM)
+[2017.10.14-03.01.14:415][696]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-03.01.14:417][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001382s)
+[2017.10.14-03.01.14:418][696]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-03.01.14:418][696]LogPlayLevel: PIE: World Init took: (0.001392s)
+[2017.10.14-03.01.14:419][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.003435s)
+[2017.10.14-03.01.14:448][696]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-03.01.14:458][696]LogInit: FAudioDevice initialized.
+[2017.10.14-03.01.14:495][696]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-03.01.14:497][696]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-20.01.14
+[2017.10.14-03.01.14:498][696]LogWorld: Bringing up level for play took: 0.002003
+[2017.10.14-03.01.14:500][696]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 -0.863
+[2017.10.14-03.01.17:455][827]BlueprintLog: New page: Compile NewCharacter
+[2017.10.14-03.01.18:371][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/NewCharacter" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset" SILENT=true
+[2017.10.14-03.01.18:486][854]LogSavePackage: Save=97.73ms
+[2017.10.14-03.01.18:486][854]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/NewCharacter82CFF1F247F94DC9BD1E6EAD26F36A81.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset'
+[2017.10.14-03.01.18:488][854]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset
+[2017.10.14-03.01.29:494][414]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-03.01.29:560][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-03.01.29:561][414]PIE: New page: PIE session: Level1 (Oct 13, 2017, 1:01:29 PM)
+[2017.10.14-03.01.29:564][414]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-03.01.29:566][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001533s)
+[2017.10.14-03.01.29:567][414]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-03.01.29:568][414]LogPlayLevel: PIE: World Init took: (0.001870s)
+[2017.10.14-03.01.29:569][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004766s)
+[2017.10.14-03.01.29:619][414]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-03.01.29:631][414]LogInit: FAudioDevice initialized.
+[2017.10.14-03.01.29:663][414]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-03.01.29:665][414]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-20.01.29
+[2017.10.14-03.01.29:666][414]LogWorld: Bringing up level for play took: 0.001712
+[2017.10.14-03.01.29:668][414]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 0.305
+[2017.10.14-03.02.00:470][ 28]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (BasicTileMap)
+[2017.10.14-03.02.03:159][126]LogEditorViewport: Clicking Background
+[2017.10.14-03.06.10:269][799]BlueprintLog: New page: Compile NewCharacter
+[2017.10.14-03.06.11:401][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/NewCharacter" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset" SILENT=true
+[2017.10.14-03.06.11:511][826]LogSavePackage: Save=96.85ms
+[2017.10.14-03.06.11:511][826]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/NewCharacter202C1C17476ED37D2A290FB2A9292F9F.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset'
+[2017.10.14-03.06.11:513][826]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset
+[2017.10.14-03.07.34:239][467]BlueprintLog: New page: Compile HealthBarHUD
+[2017.10.14-03.07.35:781][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBarHUD" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset" SILENT=true
+[2017.10.14-03.07.35:839][509]LogSavePackage: Save=38.61ms
+[2017.10.14-03.07.35:840][509]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/HealthBarHUDE1C9040F4547899523E5BBB10D0564DE.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset'
+[2017.10.14-03.07.35:844][509]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset
+[2017.10.14-03.10.47:182][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBarHUD" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset" SILENT=true
+[2017.10.14-03.10.47:272][868]LogSavePackage: Save=58.80ms
+[2017.10.14-03.10.47:272][868]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/HealthBarHUDDB708D3D4FCCA932A163C7A4AD53C3A5.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset'
+[2017.10.14-03.10.47:278][868]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset
+[2017.10.14-03.10.47:323][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/UEDPCLevel1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2017.10.14-03.10.47:356][868]LogSavePackage: Save=19.22ms
+[2017.10.14-03.10.47:356][868]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/UEDPCLevel18B47D24B44D6B184FC5A75A4A1557DFB.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/UEDPCLevel1.umap'
+[2017.10.14-03.10.47:358][868]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/UEDPCLevel1.umap
+[2017.10.14-03.10.47:366][868]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.10.14-03.10.50:217][978]LogTemp: Repeating last play command: Standalone Game
+[2017.10.14-03.10.50:377][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/UEDPCLevel1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2017.10.14-03.10.50:403][978]LogSavePackage: Save=18.33ms
+[2017.10.14-03.10.50:403][978]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/UEDPCLevel160EB818E4774C453A269AFB69180EB83.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/UEDPCLevel1.umap'
+[2017.10.14-03.10.50:405][978]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/UEDPCLevel1.umap
+[2017.10.14-03.10.50:411][978]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.10.14-03.13.16:076][370]BlueprintLog: New page: Compile HealthBarHUD
+[2017.10.14-03.13.17:135][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBarHUD" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset" SILENT=true
+[2017.10.14-03.13.17:189][394]LogSavePackage: Save=34.69ms
+[2017.10.14-03.13.17:189][394]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/HealthBarHUDCE68306F4AFF496A62E3E69CF7BA9D0F.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset'
+[2017.10.14-03.13.17:194][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset
+[2017.10.14-03.13.18:277][436]LogTemp: Repeating last play command: Standalone Game
+[2017.10.14-03.13.18:450][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/UEDPCLevel1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2017.10.14-03.13.18:475][436]LogSavePackage: Save=17.59ms
+[2017.10.14-03.13.18:475][436]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/UEDPCLevel14265BA6940EC003197E420A31A9917DB.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/UEDPCLevel1.umap'
+[2017.10.14-03.13.18:477][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/UEDPCLevel1.umap
+[2017.10.14-03.13.18:483][436]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.10.14-03.13.45:285][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/UEDPCLevel1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2017.10.14-03.13.45:312][938]LogSavePackage: Save=17.74ms
+[2017.10.14-03.13.45:312][938]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/UEDPCLevel155BBFA914BDCF07C65377EB89C0E9ABB.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/UEDPCLevel1.umap'
+[2017.10.14-03.13.45:314][938]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/UEDPCLevel1.umap
+[2017.10.14-03.13.45:320][938]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.10.14-03.13.49:294][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-03.13.49:295][ 80]PIE: New page: SIE session: Level1 (Oct 13, 2017, 1:13:49 PM)
+[2017.10.14-03.13.49:295][ 80]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-03.13.49:296][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001212s)
+[2017.10.14-03.13.49:298][ 80]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-03.13.49:298][ 80]LogPlayLevel: PIE: World Init took: (0.001532s)
+[2017.10.14-03.13.49:298][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.003460s)
+[2017.10.14-03.13.49:331][ 80]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-03.13.49:343][ 80]LogInit: FAudioDevice initialized.
+[2017.10.14-03.13.49:378][ 80]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-03.13.49:380][ 80]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-20.13.49
+[2017.10.14-03.13.49:381][ 80]LogWorld: Bringing up level for play took: 0.001767
+[2017.10.14-03.13.49:381][ 80]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.14-03.13.49:384][ 80]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 0.021
+[2017.10.14-03.13.58:214][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-03.13.58:214][410]PIE: New page: PIE session: Level1 (Oct 13, 2017, 1:13:58 PM)
+[2017.10.14-03.13.58:214][410]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-03.13.58:216][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001128s)
+[2017.10.14-03.13.58:217][410]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-03.13.58:217][410]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2017.10.14-03.13.58:217][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.003016s)
+[2017.10.14-03.13.58:247][410]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-03.13.58:256][410]LogInit: FAudioDevice initialized.
+[2017.10.14-03.13.58:292][410]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-03.13.58:294][410]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-20.13.58
+[2017.10.14-03.13.58:295][410]LogWorld: Bringing up level for play took: 0.002086
+[2017.10.14-03.13.58:298][410]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 0.935
+[2017.10.14-03.14.03:921][627]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-03.14.03:959][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-03.14.03:960][627]PIE: New page: PIE session: Level1 (Oct 13, 2017, 1:14:03 PM)
+[2017.10.14-03.14.03:960][627]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-03.14.03:962][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001174s)
+[2017.10.14-03.14.03:963][627]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-03.14.03:963][627]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2017.10.14-03.14.03:963][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.003117s)
+[2017.10.14-03.14.03:992][627]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-03.14.04:003][627]LogInit: FAudioDevice initialized.
+[2017.10.14-03.14.04:037][627]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-03.14.04:039][627]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-20.14.04
+[2017.10.14-03.14.04:040][627]LogWorld: Bringing up level for play took: 0.001780
+[2017.10.14-03.14.04:042][627]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 0.679
+[2017.10.14-03.14.27:849][491]BlueprintLog: New page: Compile HealthBarHUD
+[2017.10.14-03.14.28:885][515]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-03.14.28:921][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-03.14.28:921][515]PIE: New page: PIE session: Level1 (Oct 13, 2017, 1:14:28 PM)
+[2017.10.14-03.14.28:921][515]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-03.14.28:922][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000895s)
+[2017.10.14-03.14.28:923][515]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-03.14.28:924][515]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2017.10.14-03.14.28:924][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.002695s)
+[2017.10.14-03.14.28:955][515]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-03.14.28:967][515]LogInit: FAudioDevice initialized.
+[2017.10.14-03.14.29:005][515]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-03.14.29:007][515]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-20.14.29
+[2017.10.14-03.14.29:008][515]LogWorld: Bringing up level for play took: 0.002217
+[2017.10.14-03.14.29:010][515]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 -0.353
+[2017.10.14-03.14.37:337][764]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-03.14.37:419][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-03.14.37:420][764]PIE: New page: PIE session: Level1 (Oct 13, 2017, 1:14:37 PM)
+[2017.10.14-03.14.37:420][764]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-03.14.37:423][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002057s)
+[2017.10.14-03.14.37:425][764]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-03.14.37:425][764]LogPlayLevel: PIE: World Init took: (0.002229s)
+[2017.10.14-03.14.37:426][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.005866s)
+[2017.10.14-03.14.37:470][764]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-03.14.37:480][764]LogInit: FAudioDevice initialized.
+[2017.10.14-03.14.37:510][764]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-03.14.37:512][764]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-20.14.37
+[2017.10.14-03.14.37:513][764]LogWorld: Bringing up level for play took: 0.001739
+[2017.10.14-03.14.37:515][764]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 0.152
+[2017.10.14-03.14.41:383][956]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-03.14.41:446][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-03.14.41:447][956]PIE: New page: PIE session: Level1 (Oct 13, 2017, 1:14:41 PM)
+[2017.10.14-03.14.41:448][956]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-03.14.41:450][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002079s)
+[2017.10.14-03.14.41:452][956]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-03.14.41:453][956]LogPlayLevel: PIE: World Init took: (0.001779s)
+[2017.10.14-03.14.41:453][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.005105s)
+[2017.10.14-03.14.41:506][956]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-03.14.41:519][956]LogInit: FAudioDevice initialized.
+[2017.10.14-03.14.41:551][956]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-03.14.41:553][956]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-20.14.41
+[2017.10.14-03.14.41:554][956]LogWorld: Bringing up level for play took: 0.002071
+[2017.10.14-03.14.41:557][956]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 0.194
+[2017.10.14-03.14.45:260][139]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-03.14.45:305][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-03.14.45:306][139]PIE: New page: PIE session: Level1 (Oct 13, 2017, 1:14:45 PM)
+[2017.10.14-03.14.45:306][139]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-03.14.45:308][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001449s)
+[2017.10.14-03.14.45:309][139]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-03.14.45:310][139]LogPlayLevel: PIE: World Init took: (0.001331s)
+[2017.10.14-03.14.45:310][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.003808s)
+[2017.10.14-03.14.45:350][139]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-03.14.45:365][139]LogInit: FAudioDevice initialized.
+[2017.10.14-03.14.45:400][139]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-03.14.45:403][139]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-20.14.45
+[2017.10.14-03.14.45:404][139]LogWorld: Bringing up level for play took: 0.002384
+[2017.10.14-03.14.45:406][139]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 0.044
+[2017.10.14-03.15.34:207][159]BlueprintLog: New page: Compile NewCharacter
+[2017.10.14-03.15.35:913][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/NewCharacter" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset" SILENT=true
+[2017.10.14-03.15.36:028][208]LogSavePackage: Save=98.20ms
+[2017.10.14-03.15.36:028][208]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/NewCharacter03CE519C429EEB58EB1F2DB67B778BAB.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset'
+[2017.10.14-03.15.36:032][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset
+[2017.10.14-03.15.39:883][365]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-03.15.39:937][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-03.15.39:937][365]PIE: New page: PIE session: Level1 (Oct 13, 2017, 1:15:39 PM)
+[2017.10.14-03.15.39:938][365]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-03.15.39:939][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001440s)
+[2017.10.14-03.15.39:941][365]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-03.15.39:941][365]LogPlayLevel: PIE: World Init took: (0.001559s)
+[2017.10.14-03.15.39:942][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.003967s)
+[2017.10.14-03.15.39:986][365]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-03.15.40:000][365]LogInit: FAudioDevice initialized.
+[2017.10.14-03.15.40:038][365]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-03.15.40:039][365]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-20.15.40
+[2017.10.14-03.15.40:040][365]LogWorld: Bringing up level for play took: 0.001799
+[2017.10.14-03.15.40:042][365]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 0.68
+[2017.10.14-03.18.11:820][254]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level1' took 0.059
+[2017.10.14-03.18.11:822][254]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HealthBarHUD] ([1] browsable assets)...
+[2017.10.14-03.18.11:823][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/HealthBarHUD]
+[2017.10.14-03.18.11:823][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBarHUD" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/HealthBarHUD_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2017.10.14-03.18.11:871][254]LogSavePackage: Save=36.64ms
+[2017.10.14-03.18.11:871][254]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/HealthBarHUD_Auto4BC2FAB9543B32FAB277D70A291169374.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/HealthBarHUD_Auto4.uasset'
+[2017.10.14-03.18.11:874][254]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Autosaves/Game/HealthBarHUD_Auto4.uasset
+[2017.10.14-03.18.11:874][254]LogFileHelpers: Auto-saving content packages took 0.053
+[2017.10.14-03.20.31:143][338]BlueprintLog: New page: Compile HealthBarHUD
+[2017.10.14-03.20.31:189][338]LogBlueprint: Error: [Compiler HealthBarHUD] The type of  Object  is undetermined.  Connect something to  Cast To NewCharacter  to imply a specific type.
+[2017.10.14-03.20.31:197][338]LogBlueprint: Error: [Compiler HealthBarHUD] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2017.10.14-03.20.31:429][338]LogBlueprint: Warning: [Compiler HealthBarHUD] [5312.87] Compile of HealthBarHUD failed. 2 Fatal Issue(s) 0 Warning(s) [in 284 ms] (/Game/HealthBarHUD.HealthBarHUD)
+[2017.10.14-03.20.44:345][819]BlueprintLog: New page: Compile HealthBarHUD
+[2017.10.14-03.20.45:768][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBarHUD" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset" SILENT=true
+[2017.10.14-03.20.45:823][861]LogSavePackage: Save=36.60ms
+[2017.10.14-03.20.45:823][861]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/HealthBarHUDF653327F4431DFD0FC3F92BE4D885822.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset'
+[2017.10.14-03.20.45:828][861]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset
+[2017.10.14-03.20.50:478][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-03.20.50:567][ 48]LogSavePackage: Save=23.28ms
+[2017.10.14-03.20.50:568][ 48]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Level15C519067462950294851DA899078B57E.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap'
+[2017.10.14-03.20.50:571][ 48]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap
+[2017.10.14-03.20.50:672][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset" SILENT=true
+[2017.10.14-03.20.50:705][ 48]LogSavePackage: Save=9.48ms
+[2017.10.14-03.20.50:705][ 48]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Level1_BuiltDataE9000B2F4E96B698DBF6B58846E6C404.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset'
+[2017.10.14-03.20.50:708][ 48]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset
+[2017.10.14-03.20.52:139][112]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-03.20.52:189][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-03.20.52:190][112]PIE: New page: PIE session: Level1 (Oct 13, 2017, 1:20:52 PM)
+[2017.10.14-03.20.52:190][112]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-03.20.52:192][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001716s)
+[2017.10.14-03.20.52:193][112]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-03.20.52:194][112]LogPlayLevel: PIE: World Init took: (0.001765s)
+[2017.10.14-03.20.52:194][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004488s)
+[2017.10.14-03.20.52:237][112]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-03.20.52:257][112]LogInit: FAudioDevice initialized.
+[2017.10.14-03.20.52:295][112]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-03.20.52:298][112]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-20.20.52
+[2017.10.14-03.20.52:299][112]LogWorld: Bringing up level for play took: 0.002864
+[2017.10.14-03.20.52:305][112]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 0.942
+[2017.10.14-03.21.56:992][583]BlueprintLog: New page: Compile HealthBarHUD
+[2017.10.14-03.21.57:963][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBarHUD" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset" SILENT=true
+[2017.10.14-03.21.58:004][607]LogSavePackage: Save=32.92ms
+[2017.10.14-03.21.58:004][607]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/HealthBarHUD143B1A274B8AD6A4389DC4BD1CB2901C.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset'
+[2017.10.14-03.21.58:010][607]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset
+[2017.10.14-03.22.04:965][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-03.22.05:044][812]LogSavePackage: Save=22.15ms
+[2017.10.14-03.22.05:044][812]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Level189DC18EB4807F5A42BF2D09EBCE5013F.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap'
+[2017.10.14-03.22.05:048][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1.umap
+[2017.10.14-03.22.05:117][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset" SILENT=true
+[2017.10.14-03.22.05:132][812]LogSavePackage: Save=5.77ms
+[2017.10.14-03.22.05:132][812]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Level1_BuiltData2FFA23224F76F9F1CC6C7FA34F8CC59D.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset'
+[2017.10.14-03.22.05:133][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset
+[2017.10.14-03.22.06:129][856]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-03.22.06:188][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-03.22.06:189][856]PIE: New page: PIE session: Level1 (Oct 13, 2017, 1:22:06 PM)
+[2017.10.14-03.22.06:190][856]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-03.22.06:191][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001427s)
+[2017.10.14-03.22.06:192][856]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-03.22.06:193][856]LogPlayLevel: PIE: World Init took: (0.001640s)
+[2017.10.14-03.22.06:194][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004066s)
+[2017.10.14-03.22.06:240][856]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-03.22.06:251][856]LogInit: FAudioDevice initialized.
+[2017.10.14-03.22.06:282][856]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-03.22.06:284][856]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-20.22.06
+[2017.10.14-03.22.06:285][856]LogWorld: Bringing up level for play took: 0.001788
+[2017.10.14-03.22.06:287][856]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 0.925
+[2017.10.14-03.28.51:464][577]BlueprintLog: New page: Compile HealthBarHUD
+[2017.10.14-03.28.52:733][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBarHUD" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset" SILENT=true
+[2017.10.14-03.28.52:813][608]LogSavePackage: Save=40.35ms
+[2017.10.14-03.28.52:814][608]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/HealthBarHUD2C63546A4F8ABBAB87925FBA4E90572C.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset'
+[2017.10.14-03.28.52:819][608]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/HealthBarHUD.uasset
+[2017.10.14-03.29.05:054][ 73]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-03.29.05:151][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-03.29.05:152][ 73]PIE: New page: PIE session: Level1 (Oct 13, 2017, 1:29:05 PM)
+[2017.10.14-03.29.05:152][ 73]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2017.10.14-03.29.05:154][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001552s)
+[2017.10.14-03.29.05:155][ 73]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-03.29.05:156][ 73]LogPlayLevel: PIE: World Init took: (0.001896s)
+[2017.10.14-03.29.05:157][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004608s)
+[2017.10.14-03.29.05:198][ 73]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-03.29.05:210][ 73]LogInit: FAudioDevice initialized.
+[2017.10.14-03.29.05:246][ 73]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-03.29.05:248][ 73]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-20.29.05
+[2017.10.14-03.29.05:249][ 73]LogWorld: Bringing up level for play took: 0.001884
+[2017.10.14-03.29.05:251][ 73]PIE: Play in editor start time for /Game/UEDPIE_0_Level1 -0.111
+[2017.10.14-03.30.48:515][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-03.30.48:560][500]LogSavePackage: Save=14.05ms
+[2017.10.14-03.30.48:560][500]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Level105A11315438F59CCE58282AC45A8BB03.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Levels/Level1.umap'
+[2017.10.14-03.30.48:565][500]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Levels/Level1.umap
+[2017.10.14-03.30.48:609][500]LogFileHelpers: Saving map 'Level1' took 0.173
+[2017.10.14-03.30.56:503][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-03.30.56:580][835]LogSavePackage: Save=20.95ms
+[2017.10.14-03.30.56:580][835]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Level181736E71420F9E198B5AA2BDE0C733F5.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Levels/Level1.umap'
+[2017.10.14-03.30.56:582][835]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Levels/Level1.umap
+[2017.10.14-03.31.01:643][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset" SILENT=true
+[2017.10.14-03.31.01:674][ 35]LogSavePackage: Save=11.80ms
+[2017.10.14-03.31.01:674][ 35]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/Level1_BuiltData8F50611C4BA0C06C6294C58140F7B224.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset'
+[2017.10.14-03.31.01:678][ 35]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Level1_BuiltData.uasset
+[2017.10.14-03.31.17:184][611]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-03.31.17:257][611]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.14-03.31.17:295][611]LogPlayLevel: [PlayLevel] Compiling HealthBarHUD before play...
+[2017.10.14-03.31.17:304][611]LogPlayLevel: [PlayLevel]   Compiling NewCharacter as a dependent...
+[2017.10.14-03.31.17:660][611]LogPlayLevel: PlayLevel: Blueprint regeneration took 402 ms (2 blueprints)
+[2017.10.14-03.31.17:660][611]PIE: New page: PIE session: Level1 (Oct 13, 2017, 1:31:17 PM)
+[2017.10.14-03.31.17:660][611]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2017.10.14-03.31.17:661][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000834s)
+[2017.10.14-03.31.17:662][611]LogAIModule: Creating AISystem for world Level1
+[2017.10.14-03.31.17:663][611]LogPlayLevel: PIE: World Init took: (0.001262s)
+[2017.10.14-03.31.17:663][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.002638s)
+[2017.10.14-03.31.17:685][611]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.14-03.31.17:695][611]LogInit: FAudioDevice initialized.
+[2017.10.14-03.31.17:729][611]LogLoad: Game class is 'GameModeBase'
+[2017.10.14-03.31.17:732][611]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.10.13-20.31.17
+[2017.10.14-03.31.17:732][611]LogWorld: Bringing up level for play took: 0.002063
+[2017.10.14-03.31.17:735][611]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 0.372
+[2017.10.14-03.31.27:605][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/NewCharacter" FILE="../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset" SILENT=true
+[2017.10.14-03.31.27:746][993]LogSavePackage: Save=104.04ms
+[2017.10.14-03.31.27:746][993]LogSavePackage: Moving '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Saved/NewCharacterAEAF803140BE5F67DB82FB92EA5855DE.tmp' to '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset'
+[2017.10.14-03.31.27:749][993]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/Character/NewCharacter.uasset
+[2017.10.14-03.31.28:177][993]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.14-03.31.28:704][994]Cmd: QUIT_EDITOR
+[2017.10.14-03.31.29:472][994]LogExit: Preparing to exit.
+[2017.10.14-03.31.30:515][994]LogDirectoryWatcher: A directory notification for 'C:/Users/1111/Documents/Unreal Projects/My2DReal/Content/' was aborted.
+[2017.10.14-03.31.30:730][994]LogExit: Editor shut down
+[2017.10.14-03.31.30:737][994]LogExit: Transaction tracking system shut down
+[2017.10.14-03.31.30:967][994]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.10.14-03.31.30:967][994]LogDirectoryWatcher: A directory notification for '../../../../../../Users/1111/Documents/Unreal Projects/My2DReal/Content/' was aborted.
+[2017.10.14-03.31.30:967][994]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.10.14-03.31.30:967][994]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.10.14-03.31.30:967][994]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.10.14-03.31.31:265][994]LogExit: Object subsystem successfully closed.
+[2017.10.14-03.31.31:301][994]LogD3D11RHI: Shutdown
+[2017.10.14-03.31.31:301][994]LogD3D11RHI: CleanupD3DDevice
+[2017.10.14-03.31.31:494][994]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.10.14-03.31.31:525][994]LogModuleManager: Shutting down and abandoning module SequencerWidgets (538)
+[2017.10.14-03.31.31:525][994]LogModuleManager: Shutting down and abandoning module BlueprintGraph (536)
+[2017.10.14-03.31.31:525][994]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (534)
+[2017.10.14-03.31.31:527][994]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2017.10.14-03.31.31:527][994]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.10.14-03.31.31:527][994]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.10.14-03.31.31:528][994]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.10.14-03.31.31:528][994]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.10.14-03.31.31:537][994]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.10.14-03.31.31:537][994]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.10.14-03.31.31:537][994]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.10.14-03.31.31:537][994]LogDirectoryWatcher: A directory notification for 'C:/Users/1111/Documents/Unreal Projects/My2DReal/Content/Collections/' was aborted.
+[2017.10.14-03.31.31:537][994]LogDirectoryWatcher: A directory notification for 'C:/Users/1111/Documents/Unreal Projects/My2DReal/Content/Developers/1111/Collections/' was aborted.
+[2017.10.14-03.31.31:537][994]LogDirectoryWatcher: A directory notification for 'C:/Users/1111/Documents/Unreal Projects/My2DReal/Saved/Collections/' was aborted.
+[2017.10.14-03.31.31:537][994]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.10.14-03.31.31:539][994]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.10.14-03.31.31:539][994]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.10.14-03.31.31:540][994]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.10.14-03.31.31:540][994]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.10.14-03.31.31:540][994]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.10.14-03.31.31:540][994]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.10.14-03.31.31:540][994]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.10.14-03.31.31:540][994]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.10.14-03.31.31:541][994]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.10.14-03.31.31:541][994]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.10.14-03.31.31:541][994]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.10.14-03.31.31:541][994]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.10.14-03.31.31:541][994]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.10.14-03.31.31:542][994]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.10.14-03.31.31:544][994]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.10.14-03.31.31:544][994]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.10.14-03.31.31:544][994]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.10.14-03.31.31:544][994]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.10.14-03.31.31:544][994]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.10.14-03.31.31:544][994]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.10.14-03.31.31:544][994]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.10.14-03.31.31:544][994]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.10.14-03.31.31:544][994]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.10.14-03.31.31:544][994]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.10.14-03.31.31:544][994]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.10.14-03.31.31:544][994]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.10.14-03.31.31:544][994]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.10.14-03.31.31:544][994]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.10.14-03.31.31:545][994]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.10.14-03.31.31:545][994]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.10.14-03.31.31:547][994]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.10.14-03.31.31:548][994]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.10.14-03.31.31:550][994]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.10.14-03.31.31:552][994]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.10.14-03.31.31:553][994]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.10.14-03.31.31:553][994]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.10.14-03.31.31:553][994]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.10.14-03.31.32:215][994]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.10.14-03.31.32:215][994]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.10.14-03.31.32:215][994]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.10.14-03.31.32:215][994]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.10.14-03.31.32:216][994]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.10.14-03.31.32:217][994]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.10.14-03.31.32:217][994]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.10.14-03.31.32:218][994]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.10.14-03.31.32:218][994]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.10.14-03.31.32:220][994]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.10.14-03.31.32:220][994]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.10.14-03.31.32:221][994]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.10.14-03.31.32:221][994]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.10.14-03.31.32:221][994]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.10.14-03.31.32:221][994]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.10.14-03.31.32:221][994]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.10.14-03.31.32:222][994]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.10.14-03.31.32:223][994]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.10.14-03.31.32:223][994]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.10.14-03.31.32:224][994]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.10.14-03.31.32:225][994]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.10.14-03.31.32:226][994]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.10.14-03.31.32:226][994]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.10.14-03.31.32:227][994]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.10.14-03.31.32:304][994]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.10.14-03.31.32:304][994]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.10.14-03.31.32:306][994]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.10.14-03.31.32:309][994]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.10.14-03.31.32:309][994]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.10.14-03.31.32:309][994]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.10.14-03.31.32:310][994]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.10.14-03.31.32:311][994]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.10.14-03.31.32:311][994]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.10.14-03.31.32:312][994]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.10.14-03.31.32:338][994]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.10.14-03.31.32:342][994]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.10.14-03.31.32:342][994]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.10.14-03.31.32:342][994]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.10.14-03.31.32:343][994]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.10.14-03.31.32:343][994]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.10.14-03.31.32:344][994]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.10.14-03.31.32:347][994]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.10.14-03.31.32:347][994]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.10.14-03.31.32:347][994]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.10.14-03.31.32:347][994]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.10.14-03.31.32:348][994]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.10.14-03.31.32:348][994]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.10.14-03.31.32:348][994]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.10.14-03.31.32:348][994]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.10.14-03.31.32:348][994]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.10.14-03.31.32:348][994]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.10.14-03.31.32:348][994]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.10.14-03.31.32:348][994]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.10.14-03.31.32:348][994]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.10.14-03.31.32:348][994]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.10.14-03.31.32:586][994]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.10.14-03.31.32:586][994]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.10.14-03.31.32:586][994]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.10.14-03.31.32:586][994]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.10.14-03.31.32:586][994]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.10.14-03.31.32:586][994]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.10.14-03.31.32:586][994]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.10.14-03.31.32:586][994]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.10.14-03.31.32:586][994]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.10.14-03.31.32:586][994]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.10.14-03.31.32:586][994]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.10.14-03.31.32:588][994]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.10.14-03.31.32:588][994]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.10.14-03.31.32:589][994]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.10.14-03.31.32:589][994]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.10.14-03.31.32:589][994]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.10.14-03.31.32:589][994]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.10.14-03.31.32:589][994]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.10.14-03.31.32:590][994]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.10.14-03.31.32:591][994]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.10.14-03.31.32:591][994]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.10.14-03.31.32:591][994]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.10.14-03.31.32:591][994]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.10.14-03.31.32:591][994]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.10.14-03.31.32:591][994]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.10.14-03.31.32:592][994]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.10.14-03.31.32:592][994]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.10.14-03.31.32:592][994]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.10.14-03.31.32:592][994]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.10.14-03.31.32:592][994]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.10.14-03.31.32:593][994]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.10.14-03.31.32:593][994]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.10.14-03.31.32:596][994]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.10.14-03.31.32:596][994]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.10.14-03.31.32:597][994]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.10.14-03.31.32:597][994]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.10.14-03.31.32:597][994]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.10.14-03.31.32:597][994]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.10.14-03.31.32:598][994]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.10.14-03.31.32:598][994]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.10.14-03.31.32:598][994]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.10.14-03.31.32:598][994]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.10.14-03.31.32:598][994]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.10.14-03.31.32:698][994]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.10.14-03.31.32:799][994]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.10.14-03.31.32:800][994]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.10.14-03.31.32:800][994]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.10.14-03.31.32:800][994]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.10.14-03.31.32:800][994]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.10.14-03.31.32:800][994]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.10.14-03.31.32:805][994]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.10.14-03.31.32:805][994]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.10.14-03.31.32:805][994]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.10.14-03.31.32:805][994]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.10.14-03.31.32:805][994]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.10.14-03.31.32:805][994]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.10.14-03.31.32:806][994]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.10.14-03.31.32:806][994]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.10.14-03.31.32:806][994]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.10.14-03.31.32:806][994]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.10.14-03.31.32:806][994]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.10.14-03.31.32:806][994]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.10.14-03.31.32:806][994]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.10.14-03.31.32:806][994]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.10.14-03.31.32:806][994]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.10.14-03.31.32:806][994]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.10.14-03.31.32:806][994]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.10.14-03.31.32:806][994]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.10.14-03.31.32:806][994]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.10.14-03.31.32:806][994]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.10.14-03.31.32:806][994]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.10.14-03.31.32:807][994]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.10.14-03.31.32:807][994]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.10.14-03.31.32:807][994]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.10.14-03.31.32:810][994]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.10.14-03.31.32:810][994]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.10.14-03.31.32:810][994]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.10.14-03.31.32:810][994]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.10.14-03.31.32:810][994]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.10.14-03.31.32:810][994]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.10.14-03.31.32:810][994]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.10.14-03.31.32:810][994]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.10.14-03.31.32:810][994]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.10.14-03.31.32:810][994]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.10.14-03.31.32:810][994]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.10.14-03.31.32:810][994]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.10.14-03.31.32:810][994]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.10.14-03.31.32:810][994]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.10.14-03.31.32:810][994]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.10.14-03.31.32:810][994]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.10.14-03.31.32:817][994]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.10.14-03.31.32:899][994]LogDerivedDataCache: Shutdown
+[2017.10.14-03.31.32:900][994]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.10.14-03.31.32:900][994]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.10.14-03.31.32:900][994]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.10.14-03.31.32:900][994]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.10.14-03.31.32:900][994]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.10.14-03.31.32:901][994]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.10.14-03.31.32:901][994]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.10.14-03.31.32:901][994]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.10.14-03.31.32:901][994]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.10.14-03.31.32:901][994]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.10.14-03.31.32:901][994]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.10.14-03.31.32:901][994]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.10.14-03.31.32:901][994]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.10.14-03.31.32:901][994]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.10.14-03.31.32:901][994]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.10.14-03.31.32:901][994]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.10.14-03.31.32:901][994]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.10.14-03.31.32:902][994]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.10.14-03.31.32:902][994]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.10.14-03.31.32:902][994]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.10.14-03.31.32:902][994]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.10.14-03.31.32:902][994]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.10.14-03.31.32:902][994]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.10.14-03.31.32:902][994]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.10.14-03.31.32:902][994]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.10.14-03.31.32:902][994]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.10.14-03.31.32:902][994]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.10.14-03.31.32:902][994]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.10.14-03.31.32:902][994]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.10.14-03.31.32:902][994]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.10.14-03.31.32:903][994]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.10.14-03.31.32:903][994]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.10.14-03.31.32:903][994]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.10.14-03.31.32:903][994]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.10.14-03.31.32:903][994]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.10.14-03.31.32:903][994]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.10.14-03.31.32:903][994]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.10.14-03.31.32:903][994]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.10.14-03.31.32:903][994]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.10.14-03.31.32:903][994]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.10.14-03.31.32:903][994]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.10.14-03.31.32:904][994]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.10.14-03.31.32:904][994]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.10.14-03.31.32:904][994]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.10.14-03.31.32:904][994]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.10.14-03.31.32:904][994]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.10.14-03.31.32:904][994]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.10.14-03.31.32:904][994]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.10.14-03.31.32:904][994]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.10.14-03.31.32:904][994]LogOnline: Display: Unloading online subsystem: NULL
+[2017.10.14-03.31.32:904][994]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.10.14-03.31.32:904][994]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.10.14-03.31.32:904][994]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.10.14-03.31.32:905][994]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9A6D9EE5-49C4-9393-49FF-58B2EC4D1011%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=d0e5aef543348937e5e256b1ed1b4c40%7Cd3b2f9137eb044028cd2b2ec18f87a71%7C41917c8b-1f88-4d49-b42d-cb3c76e5fc37&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.10.14-03.31.32:938][994]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.10.14-03.31.32:941][994]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.10.14-03.31.32:941][994]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.10.14-03.31.32:941][994]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.10.14-03.31.32:941][994]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.10.14-03.31.32:941][994]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.10.14-03.31.32:941][994]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.10.14-03.31.32:941][994]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.10.14-03.31.32:963][994]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.10.14-03.31.32:963][994]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.10.14-03.31.32:963][994]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.10.14-03.31.32:963][994]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.10.14-03.31.32:963][994]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.10.14-03.31.32:963][994]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.10.14-03.31.32:963][994]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.10.14-03.31.32:963][994]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.10.14-03.31.32:964][994]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.10.14-03.31.32:964][994]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.10.14-03.31.32:964][994]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.10.14-03.31.32:966][994]LogExit: Exiting.
+[2017.10.14-03.31.33:000][994]Log file closed, 10/13/17 20:31:33
